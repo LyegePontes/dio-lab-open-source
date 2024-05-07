@@ -1,6 +1,6 @@
 # Olá, me chamo Lyege Pontes ! 
 ## Bem vindo ao meu perfil GitHub 👋
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e Bootcamp Santander na Dio -Criando jogos com Godot
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e Bootcamp Santander na Dio Criando jogos com Godot
 
 ## Ferramentas e Tecnologias
 
